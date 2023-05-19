@@ -3,4 +3,4 @@ This is Alpha Version of Scancare
 
 
 
-This release contains the FLash integrated with Camera
+This release contains the FLask integrated with Camera
