@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scancare V0.01</string>
+
+    <string name="title_login">Silahkan Masuk</string>
+    <string name="desc_login">Pastikan ingat Email dan Password ya!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="desc_reg_log">belum mempunyai akun?</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama User</string>
+    <string name="username">Username</string>
+    <string name="camera">Camera</string>
+    <string name="register_tv">Silahkan Daftar</string>
+    <string name="desc_register">Pastikan Simpan Email dan Password kamu ya!</string>
+    <string name="logout">logout</string>
+</resources>
